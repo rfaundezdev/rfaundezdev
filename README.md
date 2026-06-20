@@ -8,6 +8,10 @@ Tengo experiencia comprobada en ecosistemas e-commerce, liderando la implementac
 
 ---
 
+Nota: La mayor parte de mi actividad y mis aportes de los últimos 4 años se encuentran bajo acuerdos de confidencialidad en repositorios privados empresariales alojados en Microsoft Azure DevOps y GitLab.
+
+---
+
 ### 🛠️ Mi Stack Tecnológico
 
 **Frontend:**
